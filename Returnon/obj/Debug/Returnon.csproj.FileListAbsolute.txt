@@ -1,0 +1,19 @@
+D:\Studies\Project\Returnon\Returnon\bin\Debug\Returnon.exe.config
+D:\Studies\Project\Returnon\Returnon\bin\Debug\Returnon.exe
+D:\Studies\Project\Returnon\Returnon\bin\Debug\Returnon.pdb
+D:\Studies\Project\Returnon\Returnon\obj\Debug\Returnon.csprojResolveAssemblyReference.cache
+D:\Studies\Project\Returnon\Returnon\obj\Debug\Returnon.Form1.resources
+D:\Studies\Project\Returnon\Returnon\obj\Debug\Returnon.Properties.Resources.resources
+D:\Studies\Project\Returnon\Returnon\obj\Debug\Returnon.csproj.GenerateResource.Cache
+D:\Studies\Project\Returnon\Returnon\obj\Debug\Returnon.exe
+D:\Studies\Project\Returnon\Returnon\obj\Debug\Returnon.pdb
+C:\Users\Настя Утякаева\Desktop\Returnon\Returnon\obj\Debug\Returnon.csprojAssemblyReference.cache
+C:\Users\Настя Утякаева\Desktop\Returnon\Returnon\obj\Debug\Returnon.Form1.resources
+C:\Users\Настя Утякаева\Desktop\Returnon\Returnon\obj\Debug\Returnon.Properties.Resources.resources
+C:\Users\Настя Утякаева\Desktop\Returnon\Returnon\obj\Debug\Returnon.csproj.GenerateResource.cache
+C:\Users\Настя Утякаева\Desktop\Returnon\Returnon\obj\Debug\Returnon.csproj.CoreCompileInputs.cache
+C:\Users\Настя Утякаева\Desktop\Returnon\Returnon\obj\Debug\Returnon.exe
+C:\Users\Настя Утякаева\Desktop\Returnon\Returnon\obj\Debug\Returnon.pdb
+C:\Users\Настя Утякаева\Desktop\Returnon\Returnon\bin\Debug\Returnon.exe.config
+C:\Users\Настя Утякаева\Desktop\Returnon\Returnon\bin\Debug\Returnon.exe
+C:\Users\Настя Утякаева\Desktop\Returnon\Returnon\bin\Debug\Returnon.pdb

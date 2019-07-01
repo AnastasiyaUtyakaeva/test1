@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vihod", "Returnon\vihod.csproj", "{B7FECEB4-17BD-492E-B618-ABB5E515AFAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7FECEB4-17BD-492E-B618-ABB5E515AFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FECEB4-17BD-492E-B618-ABB5E515AFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FECEB4-17BD-492E-B618-ABB5E515AFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FECEB4-17BD-492E-B618-ABB5E515AFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {486C9BE1-438D-400C-91E8-993F45A0A5F9}
+	EndGlobalSection
+EndGlobal
